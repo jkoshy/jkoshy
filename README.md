@@ -2,10 +2,9 @@
 
 I am not an active user of Github.
 
-Most of my volunteer work happens at SourceForge (where I contribute
-to the [Elftoolchain][] code base), or directly in *BSD OS source
-repositories.
+My open-source work is mostly hosted at [SourceForge.Net](http://sourceforge.net/), where I contribute
+to the [Elftoolchain][] project.
 
-FreshBSD.org link: [https://freshbsd.org/?q=jkoshy](https://freshbsd.org/?q=jkoshy).
+You can track my work at the following FreshBSD.org link: [https://freshbsd.org/?q=jkoshy](https://freshbsd.org/?q=jkoshy).
 
  [Elftoolchain]: http://elftoolchain.sourceforge.net/
